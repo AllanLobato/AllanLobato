@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## I'm Allan Lobato
 - I live in São Paulo, Brasil :brazil:
 - I'm looking for a opportunity in front-end development
